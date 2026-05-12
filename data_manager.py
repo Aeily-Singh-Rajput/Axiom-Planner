@@ -60,4 +60,8 @@ def load_settings():
 
 
 def save_settings(settings):
+<<<<<<< HEAD
     _write_json(SETTINGS_FILE, settings)
+=======
+    _write_json(SETTINGS_FILE, settings)
+>>>>>>> ec633ecb73474fa23192ea80eb2f00da8f16c378

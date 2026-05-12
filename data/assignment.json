@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1d2f59c3-20f8-4025-95a6-c30e3cc0862c",
+        "title": "eco",
+        "deadline": "2026-05-16",
+        "difficulty": 2,
+        "size": 3,
+        "status": "Pending",
+        "summary": "This document details **Assignment-2 for the course Computer Eco-System (25CSH-102)**. It consists of five distinct sets of questions, each focusing on two core areas: **Operating Systems (OS)** and **Computer Networking**. Key topics include OS resource management, comparisons of different OS architectures (like Linux vs. Windows), virtualization, network hierarchies (LAN/WAN/MAN), and the technical protocols that enable internet communication (TCP/IP, DNS, and IP addressing).\n\n### Actionable Next Steps for the Student\n\n1.  **Confirm Your Assigned Set:**\n    Check with your instructor or the syllabus to see if you are required to answer **all five sets** or if you have been assigned a **specific set** (e.g., Set 1 or Set 3) based on your roll number or group.\n\n2.  **Prepare Technical Diagrams:**\n    Several questions (specifically in Sets 1, 2, and 5) ask you to \"illustrate\" or \"detail each step.\" Don't just write text; draft diagrams for the **DNS resolution process** and the **data flow from user request to server response** to earn higher marks.\n\n3.  **Research Real-World Scenarios:**\n    The assignment requires more than just definitions; it asks for \"real-world scenarios\" (Set 1) and \"practical examples\" regarding IoT (Set 4). Start identifying specific examples now, such as how a smartphone handles multitasking or how a smart home thermostat uses networking protocols.",
+        "created_at": "2026-05-13"
+    }
+]
